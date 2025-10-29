@@ -11,7 +11,6 @@
 .opportunities-hero {
   position: relative;
   min-height: 400px;
-  background-image: url('public/assets/img/Opportunities_background.png');
   background-size: cover;
   background-position: center;
   background-color: rgba(0, 0, 0, 0.5);
